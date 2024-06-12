@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6751ffe4ce0c46c4b89f0b9d9a268ca7, type: 3}
+  m_Name: Novice Adventurer Hat
+  m_EditorClassIdentifier: 
+  itemId: A7
+  itemType: 0
+  itemName: Novice Adventurer Hat
+  icon: {fileID: 21300000, guid: f307fd66249e14a44864be8c2e92d056, type: 3}
+  desc: Sebuah item yang bisa membuat musuh kejang - kejang selama 7x24 jam.
+  amountInInventory: 1
+  itemObject: {fileID: 7975839433546731962, guid: 34a38f4f055ffbd448bacb990aea8209,
+    type: 3}
+  isStackable: 0
+  equipmentType: 7
+  status:
+    attack: 89
+    health: 88
+    mana: 87
+    defense: 86

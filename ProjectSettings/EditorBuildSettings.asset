@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: c71e9748eb527eb4d8b902399f5b8076
+  - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: 08c873bfbe40ba0468761e83b47c44f7
+  - enabled: 1
+    path: Assets/Scenes/Faunville Village.unity
+    guid: 9b8f66759331c1e4aacd37b3bf943390
+  - enabled: 0
+    path: Assets/Scenes/Turn base.unity
+    guid: 54098f466552d35488ea77e6acef5fc4
+  - enabled: 1
+    path: Assets/Scenes/Character Info.unity
+    guid: 48825ffa42dc53d4b949fa5e1d7a0517
+  - enabled: 0
+    path: Assets/Scenes/Faunville Forest 1.unity
+    guid: 7ba22065489d9304dbec3c195adac5e0
+  - enabled: 1
+    path: Assets/Scenes/Faunville Forest.unity
+    guid: a2fba81d75199b44cabedcf344b7b987
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 7c0f55dd62b7ade4b969ab9ec6ecd50c,
+      type: 2}
